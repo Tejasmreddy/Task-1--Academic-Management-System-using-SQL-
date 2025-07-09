@@ -20,7 +20,6 @@ Insert some sample data for StudentInfo table , CoursesInfo table, EnrollmentInf
 respective fields.
 
 3) Retrieve the Student Information
-4) 
 a) Write a query to retrieve student details, such as student name, contact informations, and
 Enrollment status.
 b) Write a query to retrieve a list of courses in which a specific student is enrolled.
