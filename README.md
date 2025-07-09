@@ -9,13 +9,13 @@ The project will include the following tasks:
 
  1. Database Creation:
     
- a)Create the StudentInfo table with columns STU_ ID, STU_NAME, DOB, PHONE_NO,
+ a) Create the StudentInfo table with columns STU_ ID, STU_NAME, DOB, PHONE_NO,
 EMAIL_ID,ADDRESS.
 
- b)Create the CoursesInfo table with columns COURSE_ID,
+ b )Create the CoursesInfo table with columns COURSE_ID,
 COURSE_NAME,COURSE_INSTRUCTOR NAME.
 
- c)Create the EnrollmentInfo with columns ENROLLMENT_ID, STU_ ID, COURSE_ID,
+ c) Create the EnrollmentInfo with columns ENROLLMENT_ID, STU_ ID, COURSE_ID,
 ENROLL_STATUS(Enrolled/Not Enrolled). The FOREIGN KEY constraint in the EnrollmentInfo
 table references the STU_ID column in the StudentInfo table and the COURSE_ID column in the
 CoursesInfo table.
@@ -26,13 +26,13 @@ CoursesInfo table.
 respective fields.
 
 3) Retrieve the Student Information
-   a) Write a query to retrieve student details, such as student name, contact informations, and
+ a) Write a query to retrieve student details, such as student name, contact informations, and
 Enrollment status.
 
-  b) Write a query to retrieve a list of courses in which a specific student is enrolled.
+ b) Write a query to retrieve a list of courses in which a specific student is enrolled.
  
-  c) Write a query to retrieve course information, including course name, instructor information.
+ c) Write a query to retrieve course information, including course name, instructor information.
  
-  d) Write a query to retrieve course information for a specific course.
+ d) Write a query to retrieve course information for a specific course.
  
-  e) Write a query to retrieve course information for multiple courses.
+ e) Write a query to retrieve course information for multiple courses.
