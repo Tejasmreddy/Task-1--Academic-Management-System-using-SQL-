@@ -1,3 +1,6 @@
+-- Task1 Project Title: Academic Management System (using MySQL)
+-- Project Description:Design and develop an Academic Management System using SQL. The projects should involve three tables 1.StudentInfo 2. CoursesInfo 3.EnrollmentInfo. The Aim is to create a system that allows for managing student information and course enrollment. The project will include thefollowing tasks:
+
 --1.Database Creation:
 
 CREATE SCHEMA Academic_Management_System;
@@ -46,7 +49,6 @@ INSERT INTO EnrollmentInfo VALUES
 (4, 2, 103, 'NotEnrolled'),
 (5, 3, 102, 'Enrolled'),
 (6, 4, 104, 'Enrolled');
-
 
 -- 3) Retrieve the Student Information. 
 -- a) Write a query to retrieve student details, such as student name, contact informations, and Enrollment status.
